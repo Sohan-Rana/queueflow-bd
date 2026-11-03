@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# node
+node_modules/
+dist/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+*.db
